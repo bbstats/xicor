@@ -1,5 +1,5 @@
 scipy>=1.4.1
-pytest
-pytest-cov
+#pytest
+#pytest-cov
 numpy
-black
+#black
